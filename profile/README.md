@@ -1,5 +1,5 @@
-# IgLegnds
-De IgLegnds zijn de deelnemers van de programmeer club op het IG <br>
+# IgLegends
+De IgLegends zijn de deelnemers van de programmeer club op het IG <br>
 Wij hebben de [schoolstrijd app](schoolstrijd.ig.nl) gebouwd, 
 zijn nu bezig met het leren van [flutter](flutter.dev) en zijn van plan om een alumni app te maken <br>
 <br>
