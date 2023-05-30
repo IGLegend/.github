@@ -9,7 +9,7 @@ Dit zijn de _**IgLegends**_ <br />
 
 **Alumni:** Mert Sem Quibus Frank
 #
-**Klas 5:** Loyic Filipijner Roemrijke Tin
+**Klas 5:** Loyic Filipijner Roemrijke Tin, Rebecca  
 #
 **Klas 4:** yitseh
 #
